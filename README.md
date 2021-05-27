@@ -22,6 +22,10 @@
 [<img align="left" alt="Sandeep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+[instagram]: https://www.instagram.com/i_am_rogue_sandeep/
+[linkedin]: https://www.linkedin.com/in/sandeep-kshetri-05bbb6183/
+
 <br />
 
 
@@ -38,7 +42,6 @@
 
 
 <br/>
-<br />
 
 
 
@@ -50,6 +53,6 @@
 
 
 
-[instagram]: https://www.instagram.com/i_am_rogue_sandeep/
-[linkedin]: https://www.linkedin.com/in/sandeep-kshetri-05bbb6183/
+
+
 
