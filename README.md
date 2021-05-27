@@ -2,7 +2,7 @@
 
 
 
-## I'm a  CS student and a tech enthusiast who loves to code ❤️!!
+## I'm a CS student loves to code ❤️
 
 
 - 🌱 I’m currently learning everything 🤣
