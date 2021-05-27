@@ -37,20 +37,3 @@
 [<img align="left" alt="Python" width="26px" height="20px" src="https://github.com/darkamgel/darkamgel/blob/branch/images/Python-Emblem.jpg" />]
 [<img align="left" alt="flutter" width="26px" height="20px" src="https://github.com/darkamgel/darkamgel/blob/branch/images/catalog-widget-placeholder.png" />]
 [<img align="left" alt="Django" width="26px" height="20px" src="https://github.com/darkamgel/darkamgel/blob/branch/images/django-logo-negative.png" />]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
