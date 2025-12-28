@@ -7,24 +7,19 @@
 
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Gta V and Minecraft
+- 🥅 2026 Goals: It been sometime i have been inactive due to the Corporate works, now i am back and ready to contribut to the open source.
+- ⚡ Fun fact: I love to play Valorant and Minecraft
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bcuh1w5pmn1ztpugdf71ts4i6)
 
 ### Connect with me:
-
-
 
 
 [<img align="left" alt="Sandeep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/i_am_rogue_sandeep/
-[linkedin]: https://www.linkedin.com/in/sandeep-kshetri-05bbb6183/
+[instagram]: https://www.instagram.com/kshetri_d_sanjeev/
+[linkedin]: [https://www.linkedin.com/in/sandeep-kshetri-05bbb6183/](https://www.linkedin.com/in/sanjeev-kumar-khatri-05bbb6183/)
 
 <br />
 
